@@ -1,18 +1,21 @@
 # ddd
 Domain Driven Design
+
+[Link text Here](https://link-url-here.org)
+
 ```mermaid
 mindmap
   root((DDD))
-    Test[<a href='http://google.com'>link</a>]
-    link Pulsation "github.com" "something"
     Education
-      "The Blue Book"
+      link The Blue Book "github.com"
       DDD crew
     Strategic
       S1
-        B[an <b>important</b> <a href='http://google.com'>link</a>]
+        [an <b>important</b> <a href='http://google.com'>link</a>]
+        <a href='http://google.com'>another link</a>
       S2
         S21
+          [an <b>important</b> <a href='http://google.com'>link</a>]
     Tactical
       T1
       T2
