@@ -2,6 +2,14 @@
 Domain Driven Design
 
 [Link text Here](https://link-url-here.org)
+<details>
+  <a href='https://github.com/ddd-crew'>DDD Crew</a>
+  <br />
+  <a href='https://docs.vlingo.io'>DDD Design Tool</a>
+  <br />
+  <a href='https://kalele.io/vlingo-platform'>Xoom</a>
+</details>
+
 
 ```mermaid
 mindmap
@@ -28,8 +36,6 @@ mindmap
 flowchart TB
   A[<a href='https://google.com'>works</a>]
 ```
-
-<details><a href='http://google.com'>AAA</a></details>
 
 ```stl
 solid cube_corner
