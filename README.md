@@ -16,7 +16,7 @@ mindmap
         T21
     Tools
       Context Mapper
-      A[<a href='https://google.com'>docs.vlingo.io</a>]
+      vlingo[<a href='https://docs.vlingo.io'>docs.vlingo.io</a>]
 ```
 ```mermaid
 flowchart TB
