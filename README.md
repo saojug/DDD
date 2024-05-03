@@ -2,22 +2,21 @@
 Domain Driven Design
 ```mermaid
 mindmap
-  root((mindmap))
-    Origins
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
+  root((DDD))
+    Education
+      "The Blue Book"
+      DDD crew
+    Strategic
+      S1
+      S2
+        S21
+    Tactical
+      T1
+      T2
+        T21
     Tools
-      Pen and paper
-      Mermaid
+      Context Mapper
+      A[<a href='https://google.com'>docs.vlingo.io</a>]
 ```
 ```mermaid
 flowchart TB
