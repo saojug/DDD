@@ -1,10 +1,8 @@
 # ddd
 Domain Driven Design
 
-[Link text Here](https://link-url-here.org)
+[DDD Crew](https://github.com/ddd-crew)
 <details>
-  <a href='https://github.com/ddd-crew'>DDD Crew</a>
-  <br />
   <a href='https://docs.vlingo.io'>DDD Design Tool</a>
   <br />
   <a href='https://kalele.io/vlingo-platform'>Xoom</a>
