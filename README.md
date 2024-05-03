@@ -14,6 +14,5 @@ Alice->John: Yes... John, how are you?
 ```
 ```mermaid
 flowchart TB
-  A[<a href='https://google.com' target='_blank' rel='noopener noreferrer'>works</a>]
+  A[<a href='https://google.com'>works</a>]
 ```
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
