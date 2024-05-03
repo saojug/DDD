@@ -25,3 +25,5 @@ mindmap
 flowchart TB
   A[<a href='https://google.com'>works</a>]
 ```
+
+<details><a href='http://google.com'>AAA</a></details>
