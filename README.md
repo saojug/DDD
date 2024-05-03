@@ -16,3 +16,4 @@ Alice->John: Yes... John, how are you?
 flowchart TB
   A[<a href='https://google.com' target='_blank' rel='noopener noreferrer'>works</a>]
 ```
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
