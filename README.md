@@ -3,8 +3,7 @@
     <dt>Is  <a href='https://verraes.net/2021/09/what-is-domain-driven-design-ddd/'>DDD</a> the right thing for my company?</dt>
       <dd>
         <ul>
-          <li>To answer this question, it could be helpful for you, your development team and your domain experts to read chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a> ...</li>
-          <li>...after reading, are all involved people (business and development) still ready, willing and able to use DDD?</li>
+          <li>chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a> may help to answer this question...</li>
         </ul>
       </dd>
 </dl>
