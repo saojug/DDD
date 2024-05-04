@@ -1,35 +1,39 @@
 # ddd
 Domain Driven Design
 
-[DDD Crew](https://github.com/ddd-crew)
-<details>
-  <a href='https://docs.vlingo.io'>DDD Design Tool</a>
-  <br />
-  <a href='https://kalele.io/vlingo-platform'>Xoom</a>
-</details>
-
-
 ```mermaid
 mindmap
   root((DDD))
     Education
-      link The Blue Book "github.com"
-      DDD crew
-    Strategic
-      S1
-        [an <b>important</b> <a href='http://google.com'>link</a>]
-        <a href='http://google.com'>another link</a>
-      S2
-        S21
-          [an <b>important</b> <a href='http://google.com'>link</a>]
-    Tactical
-      T1
-      T2
-        T21
+    Design
+      Strategic
+      Tactical
     Tools
-      Context Mapper
-        vlingo[<a href='https://docs.vlingo.io'>docs.vlingo.io</a>]
 ```
+
+<details>
+  <summary>DDD links</summary>
+  <a href='https://github.com/ddd-crew/ddd-starter-modelling-process'>a good start...</a>
+  <details>
+    <summary>Education</summary>
+      <a href='https://contextmapper.org/docs/language-reference/'>DDD patterns overview</a>
+      <br />
+      <a href='https://www.domainlanguage.com/ddd/'>"The Blue Book" Domain-Driven Design (Eric Evans)</a>
+      <br />
+      <a href='https://vaughnvernon.com'>Vaughn Vernon (author of Implementing Domain-Driven Design)</a>
+      <br />
+      <a href='https://github.com/ddd-crew'>DDD Crew</a>
+  </details>
+  <details>
+    <summary>Tools</summary>
+      <a href='https://contextmapper.org/docs/home/'>Modeling Framework for Strategic Domain-driven Design</a>
+      <br />
+      <a href='https://docs.vlingo.io'>DDD Design Tool</a>
+      <br />
+      <a href='https://kalele.io/vlingo-platform'>Xoom</a>
+  </details>
+</details>
+
 ```mermaid
 flowchart TB
   A[<a href='https://google.com'>works</a>]
