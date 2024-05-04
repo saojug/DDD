@@ -8,7 +8,8 @@ mindmap
     Design
       Strategic
       Tactical
-    Tools
+    Realization
+      Tools
 ```
 
 <details>
