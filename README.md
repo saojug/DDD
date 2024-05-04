@@ -1,16 +1,15 @@
-## DDD: before you start...
-...you plan to use Domain Driven Design in your company?
-```mermaid
-flowchart TD
-    A[Business, Business Analysts] --> B{Ready, willing and able?}
-    B -- Yes --> C[Development Team]
-    C --> D{Ready, willing and able?}
-    D -- Yes --> E[keep on reading!]
-    B ---->|No| F[DDD may not be the right way for your company...]
-    D ---->|No| F
-```
-# DDD
-Domain Driven Design
+# DDD: Domain-Driven Design
+<dl>
+    <dt>you plan to use DDD in your company?</dt>
+      <dd>
+        <ul>
+          <li>then it could be helpful for you and your domain experts to read chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a>...</li>
+          <li>...after reading, involved people (business and development) still ready, willing and able to use DDD?</li>
+        </ul>
+      </dd>
+</dl>
+
+# DDD: Domain Driven Design
 ```mermaid
 mindmap
   root((DDD))
