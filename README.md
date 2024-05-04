@@ -1,6 +1,17 @@
-# ddd
-Domain Driven Design
+## DDD: before you start...
+...you plan to use Domain Driven Design in your company?
 
+```mermaid
+flowchart TD
+    A[Business, Business Analysts] --> B{Ready, willing and able?}
+    B -- Yes --> C[Development Team]
+    C --> D{Ready, willing and able?}
+    D -- Yes --> E[keep on reading!]
+    B ---->|No| F[DDD may not be the right way for you...]
+    D ---->|No| F[DDD may not be the right way for you...]
+```
+# DDD
+Domain Driven Design
 ```mermaid
 mindmap
   root((DDD))
@@ -10,15 +21,25 @@ mindmap
       Tactical
     Realization
       Tools
+    Ready, willing and able?
+      Management
+      Development
 ```
 
 <details>
   <summary>DDD links</summary>
-  <a href='https://github.com/ddd-crew/ddd-starter-modelling-process'>a good start...</a>
+  <details>
+    <summary>Design</summary>
+      <a href='https://github.com/ddd-crew/ddd-starter-modelling-process'>a good starting point...</a>
+  </details>
   <details>
     <summary>Education</summary>
-      <a href='https://contextmapper.org/docs/language-reference/'>DDD patterns overview</a>
-      <br />
+      <details>
+      <summary>DDD patterns (Context Mapper)</summary>
+      <a href='https://contextmapper.org/docs/language-reference/'>patterns overview</a>
+        <br />
+        <a href='https://contextmapper.org/docs/language-model/'>domain model</a>
+      </details>
       <a href='https://www.domainlanguage.com/ddd/'>"The Blue Book" Domain-Driven Design (Eric Evans)</a>
       <br />
       <a href='https://vaughnvernon.com'>Vaughn Vernon (author of Implementing Domain-Driven Design)</a>
@@ -27,11 +48,9 @@ mindmap
   </details>
   <details>
     <summary>Tools</summary>
-      <a href='https://contextmapper.org/docs/home/'>Modeling Framework for Strategic Domain-driven Design</a>
+      <a href='https://contextmapper.org/docs/home/'>Context Mapper: a Modeling Framework for Strategic Domain-driven Design</a>
       <br />
       <a href='https://docs.vlingo.io'>DDD Design Tool</a>
-      <br />
-      <a href='https://kalele.io/vlingo-platform'>Xoom</a>
   </details>
 </details>
 
