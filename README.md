@@ -3,7 +3,7 @@
     <dt>Is DDD the right thing for my company?</dt>
       <dd>
         <ul>
-          <li>To answer this question, it could be helpful for you, your development team and your domain experts to read chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a>...</li>
+          <li>To answer this question, it could be helpful for you, your development team and your domain experts to read chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a> ...</li>
           <li>...after reading, are all involved people (business and development) still ready, willing and able to use DDD?</li>
         </ul>
       </dd>
