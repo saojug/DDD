@@ -41,7 +41,7 @@ mindmap
       <a href='https://github.com/ddd-crew'>DDD Crew</a>
   </details>
   <details>
-    <summary>Tools</summary>
+    <summary>Realization</summary>
       <a href='https://contextmapper.org/docs/home/'>Context Mapper: a Modeling Framework for Strategic Domain-driven Design</a>
       <br />
       <a href='https://docs.vlingo.io'>DDD Design Tool</a>
