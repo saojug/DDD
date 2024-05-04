@@ -1,6 +1,5 @@
 ## DDD: before you start...
 ...you plan to use Domain Driven Design in your company?
-
 ```mermaid
 flowchart TD
     A[Business, Business Analysts] --> B{Ready, willing and able?}
@@ -21,9 +20,6 @@ mindmap
       Tactical
     Realization
       Tools
-    Ready, willing and able?
-      Management
-      Development
 ```
 
 <details>
