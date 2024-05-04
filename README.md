@@ -6,8 +6,8 @@ flowchart TD
     B -- Yes --> C[Development Team]
     C --> D{Ready, willing and able?}
     D -- Yes --> E[keep on reading!]
-    B ---->|No| F[DDD may not be the right way for you...]
-    D ---->|No| F[DDD may not be the right way for you...]
+    B ---->|No| F[DDD may not be the right way for your company...]
+    D ---->|No| F
 ```
 # DDD
 Domain Driven Design
