@@ -35,7 +35,7 @@ mindmap
       </details>
       <a href='https://www.domainlanguage.com/ddd/'>"The Blue Book" Domain-Driven Design (Eric Evans)</a>
       <br />
-      <a href='https://vaughnvernon.com'>Vaughn Vernon (author of Implementing Domain-Driven Design)</a>
+      <a href='https://vaughnvernon.com'>Vaughn Vernon (author of Implementing Domain-Driven Design, great book IMHO)</a>
       <br />
       <a href='https://github.com/ddd-crew'>DDD Crew</a>
   </details>
