@@ -1,6 +1,5 @@
-# DDD: Domain-Driven Design
 <dl>
-    <dt>Is  <a href='https://verraes.net/2021/09/what-is-domain-driven-design-ddd/'>DDD</a> the right thing for my company :grey_question:</dt>
+    <dt>Is  <a href='https://verraes.net/2021/09/what-is-domain-driven-design-ddd/'>DDD</a> the right thing for your company :grey_question:</dt>
       <dd>
         <ul>
           <li>chapter 1 of <a href='https://kalele.io/books/'>Implementing Domain-Driven Design</a> may help to find an answer :speech_balloon:</li>
